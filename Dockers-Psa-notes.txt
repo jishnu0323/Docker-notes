@@ -266,7 +266,7 @@ Note: when we write multiple CMD instructions in dockerfile, docker will execute
 Let us create our first docker file:
 ________________________________________
 
-Step 1: vi dockerfile
+Step 1: vi Dockerfile
 
 FROM openjdk:17
 MAINTAINER Pankaj
